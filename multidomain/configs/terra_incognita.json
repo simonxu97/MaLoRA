@@ -1,0 +1,30 @@
+{
+  "dataset": "terra_incognita",
+  "base_model": "google/vit-base-patch16-224-in21k",
+  "pretrain_task": "location_100",
+  "lora_r": 4,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "lora_target_modules": [
+    "query",
+    "value"
+  ],
+  "lora_layers_to_transform": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "lora_lr": 0.0005,
+  "lora_epochs": 20,
+  "lora_weight_decay": 0.005,
+  "batch_size": 32,
+  "num_workers": 4,
+  "val_ratio": 0.1,
+  "test_ratio": 0.1,
+  "merge_batch_size": 32,
+  "merge_num_workers": 4,
+  "baseline_batch_size": 32,
+  "baseline_num_workers": 2,
+  "oracle_batch_size": 128
+}

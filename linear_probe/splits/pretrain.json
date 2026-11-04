@@ -1,0 +1,102 @@
+{
+  "aquatic mammals": [
+    "otter",
+    "dolphin",
+    "beaver"
+  ],
+  "fish": [
+    "aquarium_fish",
+    "ray",
+    "flatfish"
+  ],
+  "flowers": [
+    "poppy",
+    "orchid",
+    "tulip"
+  ],
+  "food containers": [
+    "can",
+    "bottle",
+    "cup"
+  ],
+  "fruit and vegetables": [
+    "mushroom",
+    "sweet_pepper",
+    "pear"
+  ],
+  "household electrical devices": [
+    "keyboard",
+    "telephone",
+    "television"
+  ],
+  "household furniture": [
+    "chair",
+    "bed",
+    "wardrobe"
+  ],
+  "insects": [
+    "cockroach",
+    "bee",
+    "beetle"
+  ],
+  "large carnivores": [
+    "bear",
+    "lion",
+    "leopard"
+  ],
+  "large man-made outdoor things": [
+    "house",
+    "castle",
+    "road"
+  ],
+  "large natural outdoor scenes": [
+    "mountain",
+    "sea",
+    "forest"
+  ],
+  "large omnivores and herbivores": [
+    "cattle",
+    "kangaroo",
+    "elephant"
+  ],
+  "medium-sized mammals": [
+    "fox",
+    "raccoon",
+    "possum"
+  ],
+  "non-insect invertebrates": [
+    "spider",
+    "snail",
+    "lobster"
+  ],
+  "people": [
+    "woman",
+    "boy",
+    "man"
+  ],
+  "reptiles": [
+    "dinosaur",
+    "turtle",
+    "snake"
+  ],
+  "small mammals": [
+    "shrew",
+    "hamster",
+    "mouse"
+  ],
+  "trees": [
+    "palm_tree",
+    "maple_tree",
+    "oak_tree"
+  ],
+  "vehicles 1": [
+    "pickup_truck",
+    "train",
+    "bicycle"
+  ],
+  "vehicles 2": [
+    "tank",
+    "tractor",
+    "rocket"
+  ]
+}

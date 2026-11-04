@@ -1,0 +1,62 @@
+{
+  "aquatic mammals": [
+    "whale"
+  ],
+  "fish": [
+    "shark"
+  ],
+  "flowers": [
+    "rose"
+  ],
+  "food containers": [
+    "bowl"
+  ],
+  "fruit and vegetables": [
+    "orange"
+  ],
+  "household electrical devices": [
+    "clock"
+  ],
+  "household furniture": [
+    "table"
+  ],
+  "insects": [
+    "caterpillar"
+  ],
+  "large carnivores": [
+    "tiger"
+  ],
+  "large man-made outdoor things": [
+    "skyscraper"
+  ],
+  "large natural outdoor scenes": [
+    "plain"
+  ],
+  "large omnivores and herbivores": [
+    "camel"
+  ],
+  "medium-sized mammals": [
+    "skunk"
+  ],
+  "non-insect invertebrates": [
+    "worm"
+  ],
+  "people": [
+    "girl"
+  ],
+  "reptiles": [
+    "lizard"
+  ],
+  "small mammals": [
+    "rabbit"
+  ],
+  "trees": [
+    "pine_tree"
+  ],
+  "vehicles 1": [
+    "bus"
+  ],
+  "vehicles 2": [
+    "streetcar"
+  ]
+}

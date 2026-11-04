@@ -1,0 +1,62 @@
+{
+  "aquatic mammals": [
+    "seal"
+  ],
+  "fish": [
+    "trout"
+  ],
+  "flowers": [
+    "sunflower"
+  ],
+  "food containers": [
+    "plate"
+  ],
+  "fruit and vegetables": [
+    "apple"
+  ],
+  "household electrical devices": [
+    "lamp"
+  ],
+  "household furniture": [
+    "couch"
+  ],
+  "insects": [
+    "butterfly"
+  ],
+  "large carnivores": [
+    "wolf"
+  ],
+  "large man-made outdoor things": [
+    "bridge"
+  ],
+  "large natural outdoor scenes": [
+    "cloud"
+  ],
+  "large omnivores and herbivores": [
+    "chimpanzee"
+  ],
+  "medium-sized mammals": [
+    "porcupine"
+  ],
+  "non-insect invertebrates": [
+    "crab"
+  ],
+  "people": [
+    "baby"
+  ],
+  "reptiles": [
+    "crocodile"
+  ],
+  "small mammals": [
+    "squirrel"
+  ],
+  "trees": [
+    "willow_tree"
+  ],
+  "vehicles 1": [
+    "motorcycle"
+  ],
+  "vehicles 2": [
+    "lawn_mower"
+  ]
+}

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.log
+slurm-*.out
+
+# downloaded data, extracted features, trained heads and run outputs
+linear_probe/data/
+linear_probe/features/
+linear_probe/checkpoints/
+linear_probe/outputs/
+linear_probe/reference/
+multidomain/data/
+multidomain/runs/
+multidomain/outputs/
+multidomain/logs/
