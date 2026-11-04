@@ -118,11 +118,6 @@ which runs, in `multidomain/`, `aggregate.py` (Table 1, Tables 5 and 6; it stops
 missing files if any run is incomplete), `analyze_timing.py` (Table 10) and
 `feature_correlations.py` for each benchmark (Table 9; inference only, no training runs needed).
 
-## License
-
-Released under either the [MIT License](LICENSE-MIT) or the [Apache License 2.0](LICENSE-APACHE),
-at your option.
-
 ## Citation
 
 ```bibtex
